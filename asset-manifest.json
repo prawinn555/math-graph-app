@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/math-graph-app/static/css/main.43d6d0bf.css",
-    "main.js": "/math-graph-app/static/js/main.388f6421.js",
+    "main.js": "/math-graph-app/static/js/main.bc15cb49.js",
     "index.html": "/math-graph-app/index.html",
     "main.43d6d0bf.css.map": "/math-graph-app/static/css/main.43d6d0bf.css.map",
-    "main.388f6421.js.map": "/math-graph-app/static/js/main.388f6421.js.map"
+    "main.bc15cb49.js.map": "/math-graph-app/static/js/main.bc15cb49.js.map"
   },
   "entrypoints": [
     "static/css/main.43d6d0bf.css",
-    "static/js/main.388f6421.js"
+    "static/js/main.bc15cb49.js"
   ]
 }
