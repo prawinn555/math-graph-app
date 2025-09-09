@@ -1,0 +1,69 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 20px;
+}
+
+.app {
+  max-width: 1000px;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.controls {
+  margin-bottom: 20px;
+}
+
+.function-input {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.function-input input[type="text"] {
+  width: 300px;
+  margin-right: 10px;
+  padding: 5px;
+}
+
+.function-input input[type="color"] {
+  margin-right: 10px;
+}
+
+.function-input button {
+  margin-right: 10px;
+  padding: 5px 10px;
+}
+
+.invalid {
+  border: 2px solid red;
+}
+
+.warning {
+  color: red;
+  font-size: 0.9em;
+}
+
+.add-button {
+  padding: 5px 10px;
+  margin-bottom: 10px;
+}
+
+.axis-controls {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.axis-controls input {
+  width: 60px;
+  margin-right: 10px;
+}
+
+.graph-container {
+  text-align: center;
+}
